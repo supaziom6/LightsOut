@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllPayTest", "AllPayTest\AllPayTest.csproj", "{742FFC83-E62A-4C96-B150-495EB43F8CD4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D642FDAC-3082-42FE-9419-3ED8600961B6}"
+	ProjectSection(SolutionItems) = preProject
+		Performance1.psess = Performance1.psess
+		Performance2.psess = Performance2.psess
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{742FFC83-E62A-4C96-B150-495EB43F8CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742FFC83-E62A-4C96-B150-495EB43F8CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742FFC83-E62A-4C96-B150-495EB43F8CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742FFC83-E62A-4C96-B150-495EB43F8CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E29225A-44C7-4270-8C5C-214C4BFABB2A}
+	EndGlobalSection
+EndGlobal

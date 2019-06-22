@@ -1,0 +1,11 @@
+C:\Users\Ziomek\source\repos\AllPayTest\AllPayTest\bin\Debug\AllPayTest.exe.config
+C:\Users\Ziomek\source\repos\AllPayTest\AllPayTest\bin\Debug\AllPayTest.exe
+C:\Users\Ziomek\source\repos\AllPayTest\AllPayTest\bin\Debug\AllPayTest.pdb
+C:\Users\Ziomek\source\repos\AllPayTest\AllPayTest\obj\Debug\AllPayTest.csprojAssemblyReference.cache
+C:\Users\Ziomek\source\repos\AllPayTest\AllPayTest\obj\Debug\AllPayTest.Form1.resources
+C:\Users\Ziomek\source\repos\AllPayTest\AllPayTest\obj\Debug\AllPayTest.Properties.Resources.resources
+C:\Users\Ziomek\source\repos\AllPayTest\AllPayTest\obj\Debug\AllPayTest.csproj.GenerateResource.cache
+C:\Users\Ziomek\source\repos\AllPayTest\AllPayTest\obj\Debug\AllPayTest.csproj.CoreCompileInputs.cache
+C:\Users\Ziomek\source\repos\AllPayTest\AllPayTest\obj\Debug\AllPayTest.exe
+C:\Users\Ziomek\source\repos\AllPayTest\AllPayTest\obj\Debug\AllPayTest.pdb
+C:\Users\Ziomek\source\repos\AllPayTest\AllPayTest\obj\Debug\AllPayTest.Form2.resources
